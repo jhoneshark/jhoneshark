@@ -14,7 +14,7 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://scontent-gru2-2.cdninstagram.com/v/t51.2885-15/49698598_360658224546750_687611507867698709_n.jpg?stp=dst-jpg_e35&cb=9ad74b5e-8af86364&_nc_ht=scontent-gru2-2.cdninstagram.com&_nc_cat=106&_nc_ohc=nw62fL4_cwcAX-aqf9e&edm=ALQROFkBAAAA&ccb=7-4&ig_cache_key=MjAwNjI1MzUxMjE4MzA0Nzk1Ng%3D%3D.2-ccb7-4&oh=00_AT-MvQdJ_906ZhYPAPoYcK1BjUPBajIzpXx0w4cYTof5NQ&oe=623382D1&_nc_sid=30a2ef">
 </div>
   
   ##
