@@ -23,8 +23,5 @@
   <a href = "mailto:jhonesharky@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jhones-michael-445165122/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     
-   ![Snake animation](https://github.com/jhoneshark/jhoneshark/blob/output/github-contribution-grid-snake.svg)
-    
-    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jhoneshark&repo=Bhaskara&theme=radical)](https://github.com/jhoneshark/Bhaskara)
-    
+   ![Snake animation](https://github.com/jhoneshark/jhoneshark/blob/output/github-contribution-grid-snake.svg)   
  </div>
