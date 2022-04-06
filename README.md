@@ -25,6 +25,6 @@
     
    ![Snake animation](https://github.com/jhoneshark/jhoneshark/blob/output/github-contribution-grid-snake.svg)
     
-    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jhoneshark&repo=Bhaskara&theme=radical)](https://github.com/iuryrosal/projetos-python)
+    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jhoneshark&repo=Bhaskara&theme=radical)](https://github.com/jhoneshark/Bhaskara)
     
  </div>
