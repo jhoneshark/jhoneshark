@@ -1,4 +1,4 @@
-### Olá, eu sou o Jhones e estou aprendendo a programar!
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=38F705&center=true&width=600&height=40&lines=Ol%C3%A1%2C+eu+sou+o+Jhones+e+estou+aprendendo+a+programar!..+)](https://git.io/typing-svg)
 <div align="center">
   <a href="https://github.com/jhoneshark">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=jhoneshark&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
@@ -28,6 +28,10 @@
     
    ![Snake animation](https://github.com/jhoneshark/jhoneshark/blob/output/github-contribution-grid-snake.svg)   
  </div>
+  
+  
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Jhoneshark&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+ 
   
   ![](https://komarev.com/ghpvc/?username=jhoneshark&color=grey)
   
