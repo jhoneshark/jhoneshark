@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=38F705&center=true&width=600&height=40&lines=Ol%C3%A1%2C+eu+sou+o+Jhones+e+estou+aprendendo+a+programar!..+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Syne+Mono&color=38F705&width=650&height=40&lines=OL%C3%81%2C+BEM+VINDO!+.....................................;Eu+sou+o+Jhones+e+estou+aprendendo+a+programar!..)](https://git.io/typing-svg)
 <div align="center">
   <a href="https://github.com/jhoneshark">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=jhoneshark&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
