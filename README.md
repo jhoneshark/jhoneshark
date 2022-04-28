@@ -30,7 +30,7 @@
  </div>
   
   
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Jhoneshark&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Jhoneshark&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats) <img height="150" title="working" src="https://c.tenor.com/y6HKvDu42NkAAAAi/technologist-desktop.gif">
  
   
   ![](https://komarev.com/ghpvc/?username=jhoneshark&color=grey)
