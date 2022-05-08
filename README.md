@@ -1,8 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Syne+Mono&color=38F705&width=650&height=40&lines=OL%C3%81%2C+BEM+VINDO!+.....................................;Eu+sou+o+Jhones+e+estou+aprendendo+a+programar!..)](https://git.io/typing-svg)
 <div align="center">
   <a href="https://github.com/jhoneshark">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=jhoneshark&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhoneshark&layout=compact&langs_count=7&theme=radical"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=jhoneshark&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhoneshark&layout=compact&hide_border=true&langs_count=7&theme=radical"/>
 </div>
   
   <div style="display: inline_block"><br>
