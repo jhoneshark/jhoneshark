@@ -1,8 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Syne+Mono&color=38F705&width=650&height=40&lines=OL%C3%81%2C+BEM+VINDO!+.....................................;Eu+sou+o+Jhones+e+estou+aprendendo+a+programar!..)](https://git.io/typing-svg)
 <div align="center">
   <a href="https://github.com/jhoneshark">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=jhoneshark&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhoneshark&layout=compact&hide_border=true&langs_count=7&theme=radical"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=jhoneshark&show_icons=true&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhoneshark&layout=compact&hide_border=true&langs_count=7&theme=highcontrast"/>
 </div>
   
   <div style="display: inline_block"><br>
@@ -30,7 +30,7 @@
  </div>
   
   
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Jhoneshark&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats) <img height="150" title="working" src="https://c.tenor.com/y6HKvDu42NkAAAAi/technologist-desktop.gif">
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Jhoneshark&theme=highcontrast&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats) <img height="150" title="working" src="https://c.tenor.com/y6HKvDu42NkAAAAi/technologist-desktop.gif">
   
 ![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=jhoneshark&theme=react-dark&hide_border=true)
   
