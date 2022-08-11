@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Syne+Mono&color=38F705&width=650&height=40&lines=OL%C3%81%2C+BEM+VINDO!+.....................................;Eu+sou+o+Jhones+e+estou+aprendendo+a+programar!..)](https://git.io/typing-svg)
+<img height="40" title="working" src="https://media4.giphy.com/media/PVQFYx3fRdkKDHhis6/giphy.gif"> [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Syne+Mono&color=38F705&width=650&height=40&lines=OL%C3%81%2C+BEM+VINDO!+.....................................;Eu+sou+o+Jhones+e+estou+aprendendo+a+programar!..)](https://git.io/typing-svg)
 <div align="center">
   <a href="https://github.com/jhoneshark">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=jhoneshark&show_icons=true&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true"/>
