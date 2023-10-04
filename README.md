@@ -1,4 +1,4 @@
-<img height="40" title="working" src="https://media4.giphy.com/media/PVQFYx3fRdkKDHhis6/giphy.gif"> [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Syne+Mono&color=38F705&width=650&height=40&lines=OL%C3%81%2C+BEM+VINDO!+.....................................;Eu+sou+o+Jhones+e+estou+aprendendo+a+programar!..)](https://git.io/typing-svg)
+<img height="40" title="working" src="https://media4.giphy.com/media/PVQFYx3fRdkKDHhis6/giphy.gif"> [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Syne+Mono&color=38F705&width=650&height=40&lines=OL%C3%81%2C+BEM+VINDO!+.....................................;Sou+dev+jr+em+React+e+exploro+outras+linguagens!..)](https://git.io/typing-svg)
 
   
   <div style="display: inline_block"><br>
@@ -21,8 +21,7 @@
     <a href="https://open.spotify.com/playlist/7EbdsAZeYjzz52ciont5oJ?si=d656c4ef396a40c3" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
     <a href="https://www.binance.com/pt-BR/price/BITCOIN" target="_blank"><img src="https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white" target="_blank"></a>
     <a href="https://steamcommunity.com/id/jhoneshark" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
-    
-   ![Snake animation](https://github.com/jhoneshark/jhoneshark/blob/output/github-contribution-grid-snake.svg)   
+     
  </div>
   
   
