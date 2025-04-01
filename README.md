@@ -10,7 +10,7 @@
   <img align="center" alt="Jones-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Jhones-REACT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img align="center" alt="Jones-Kali" height="30" width="40" src="https://i.imgur.com/MLSpzRh.png">
-  <img align="right" alt="Jhones-pic" height="150" style="border-radius:50px;" title="WorkSpace" src="https://live.staticflickr.com/65535/52967099794_25afacbeb7_h.jpg">
+  <img align="right" alt="Jhones-pic" height="150" style="border-radius:50px;" title="WorkSpace" src="https://live.staticflickr.com/65535/54423435123_a729cd4e18_k.jpg">
 </div>
   
   ##
