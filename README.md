@@ -1,5 +1,7 @@
 <img height="40" title="working" src="https://media4.giphy.com/media/PVQFYx3fRdkKDHhis6/giphy.gif"> [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Syne+Mono&color=38F705&width=650&height=40&lines=OL%C3%81%2C+BEM+VINDO!+.....................................;Sou+dev+jr+em+React+e+exploro+outras+linguagens!..)](https://git.io/typing-svg)
 
+![Status](./profile-3d-contrib/profile-night-rainbow.svg)
+
   
   <div style="display: inline_block"><br>
   <img align="center" alt="jones-docker" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg">
