@@ -1,4 +1,4 @@
-<img height="40" title="working" src="https://media4.giphy.com/media/PVQFYx3fRdkKDHhis6/giphy.gif"> [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Syne+Mono&color=38F705&width=650&height=40&lines=OL%C3%81%2C+BEM+VINDO!+.....................................;Sou+dev+jr+em+React+e+exploro+outras+linguagens!..)](https://git.io/typing-svg)
+<img height="40" title="working" src="https://media4.giphy.com/media/PVQFYx3fRdkKDHhis6/giphy.gif"> [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+code&pause=1000&color=00F732&width=750&lines=Ol%C3%A1%2C+eu+sou+dev+jr+full+stack%2C+sej%C3%A1+bem+vindo+ao+meu+perfil.)](https://git.io/typing-svg)
 
 ![Status](./profile-3d-contrib/profile-night-rainbow.svg)
 
