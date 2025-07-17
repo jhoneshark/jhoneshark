@@ -1,4 +1,4 @@
-<img height="50" title="working" src="https://media4.giphy.com/media/PVQFYx3fRdkKDHhis6/giphy.gif"> [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+code&pause=1000&color=00F732&multiline=true&width=750&height=55&lines=Ol%C3%A1%2C+eu+sou+dev+jr+full+stack%2C+sej%C3%A1+bem+vindo+ao+meu+perfil.;Sempre+me+desafiando+e+aprendendo+algo+novo.)](https://git.io/typing-svg)
+<img height="50" title="working" src="https://media4.giphy.com/media/PVQFYx3fRdkKDHhis6/giphy.gif"> [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+code&pause=1000&color=00F732&multiline=true&width=750&height=55&lines=Ol%C3%A1%2C+eu+sou+dev+full+stack%2C+sej%C3%A1+bem+vindo+ao+meu+perfil.;Sempre+me+desafiando+e+aprendendo+algo+novo.)](https://git.io/typing-svg)
 
 ![Status](./profile-3d-contrib/profile-night-rainbow.svg)
 
@@ -26,6 +26,12 @@
     <a href="https://steamcommunity.com/id/jhoneshark" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
      
  </div>
+
+ <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jhoneshark/jhoneshark/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jhoneshark/jhoneshark/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/jhoneshark/jhoneshark/output/pacman-contribution-graph.svg">
+</picture>
   
   
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Jhoneshark&theme=highcontrast&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats) <img height="150" title="working" src="https://c.tenor.com/y6HKvDu42NkAAAAi/technologist-desktop.gif">
