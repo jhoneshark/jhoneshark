@@ -3,17 +3,29 @@
 ![Status](./profile-3d-contrib/profile-night-rainbow.svg)
 
   
-  <div style="display: inline_block"><br>
-  <img align="center" alt="jones-docker" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg">
-  <img align="center" alt="Jones-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="center" alt="Jones-VsCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-  <img align="center" alt="Jones-postgrsql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg">
-  <img align="center" alt="Jones-mySql" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt="Jones-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Jhones-REACT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  <img align="center" alt="Jones-Kali" height="30" width="40" src="https://i.imgur.com/MLSpzRh.png">
-  <img align="right" alt="Jhones-pic" height="150" style="border-radius:50px;" title="WorkSpace" src="https://live.staticflickr.com/65535/54423435123_a729cd4e18_k.jpg">
-</div>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+ <tr>
+  <td width="45%" valign="top">
+    <h2>Tecnologias e linguagens 💻</h2>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,java,docker"/>
+    </a>
+    <h3>🚀 Frameworks e bibliotecas</h3>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=react,nodejs,vite,spring,mysql,postgres"/>
+    </a>
+    <h3>🛠️ Ferramentas de desenvolvimento</h3>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,postman"/>
+    </a>
+  </td>
+  <td width="55%" valign="middle" align="center">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=Jhoneshark&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak">
+    <br><br>
+    <img height="150" src="https://c.tenor.com/y6HKvDu42NkAAAAi/technologist-desktop.gif" alt="Working GIF">
+  </td>
+ </tr>
+</table>
   
   ##
   
@@ -32,9 +44,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jhoneshark/jhoneshark/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/jhoneshark/jhoneshark/output/pacman-contribution-graph.svg">
 </picture>
-  
-  
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Jhoneshark&theme=highcontrast&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats) <img height="150" title="working" src="https://c.tenor.com/y6HKvDu42NkAAAAi/technologist-desktop.gif">
   
 
   
