@@ -3,20 +3,20 @@
 ![Status](./profile-3d-contrib/profile-night-rainbow.svg)
 
   
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<table width="100%" style="border-collapse: collapse;">
  <tr>
   <td width="45%" valign="top">
     <h2>Tecnologias e linguagens 💻</h2>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,java,docker"/>
+      <img src="https://skillicons.dev/icons?i=html,css,js,cs,php,docker"/>
     </a>
     <h3>🚀 Frameworks e bibliotecas</h3>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=react,nodejs,vite,spring,mysql,postgres"/>
+      <img src="https://skillicons.dev/icons?i=react,nodejs,laravel,dotnet,mysql,postgres"/>
     </a>
     <h3>🛠️ Ferramentas de desenvolvimento</h3>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,postman"/>
+      <img src="https://skillicons.dev/icons?i=git,github,rider,vscode,phpstorm,postman"/>
     </a>
   </td>
   <td width="55%" valign="middle" align="center">
