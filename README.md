@@ -1,4 +1,4 @@
-<img height="50" title="working" src="https://media4.giphy.com/media/PVQFYx3fRdkKDHhis6/giphy.gif"> [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+code&pause=1000&color=00F732&multiline=true&width=750&height=55&lines=Ol%C3%A1%2C+eu+sou+dev+full+stack%2C+sej%C3%A1+bem+vindo+ao+meu+perfil.;Sempre+me+desafiando+e+aprendendo+algo+novo.)](https://git.io/typing-svg)
+<img height="50" title="working" src="https://media4.giphy.com/media/PVQFYx3fRdkKDHhis6/giphy.gif"> [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+code&pause=1000&color=00F732&multiline=true&width=750&height=55&lines=Ol%C3%A1%2C+eu+sou+dev+full+stack%2C+sej%C3%A1+bem+vindo+ao+meu+perfil.;Estou+sempre+me+desafiando+e+aprendendo+algo+novo.)](https://git.io/typing-svg)
 
 ![Status](./profile-3d-contrib/profile-night-rainbow.svg)
 
