@@ -2,22 +2,25 @@
 
 ![Status](./profile-3d-contrib/profile-night-rainbow.svg)
 
-  
 <table width="100%" style="border-collapse: collapse;">
  <tr>
   <td width="45%" valign="top">
-    <h2>Tecnologias e linguagens 💻</h2>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=html,css,js,cs,php,docker"/>
-    </a>
-    <h3>🚀 Frameworks e bibliotecas</h3>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=react,nodejs,laravel,dotnet,mysql,postgres"/>
-    </a>
-    <h3>🛠️ Ferramentas de desenvolvimento</h3>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=git,github,rider,vscode,phpstorm,postman"/>
-    </a>
+    <h3 align="center">Linguagens 💻</h3>
+    <div align="center">
+        <img src="https://skillicons.dev/icons?i=html,css,js,php,cs&theme=dark"/>
+    </div>
+    <h3 align="center">Frameworks 🚀</h3>
+    <div align="center">
+        <img src="https://skillicons.dev/icons?i=laravel,dotnet,react,nodejs&theme=dark"/>
+    </div>
+    <h3 align="center">Infra & Dados ☁️</h3>
+    <div align="center">
+        <img src="https://skillicons.dev/icons?i=mysql,postgres,azure,docker,nginx,linux&theme=dark"/>
+    </div>
+    <h3 align="center">Ferramentas 🛠️</h3>
+    <div align="center">
+        <img src="https://skillicons.dev/icons?i=git,github,rider,vscode,phpstorm,postman&theme=dark"/>
+    </div>
   </td>
   <td width="55%" valign="middle" align="center">
     <img src="http://github-readme-streak-stats.herokuapp.com?user=Jhoneshark&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak">
@@ -29,14 +32,14 @@
   
   ##
   
-  <div> 
+  <div>
 
-  <a href = "mailto:jhoneshark@protonmail.com"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/jhonesmichael/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    <a href="https://open.spotify.com/playlist/7EbdsAZeYjzz52ciont5oJ?si=d656c4ef396a40c3" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
-    <a href="https://www.binance.com/pt-BR/price/BITCOIN" target="_blank"><img src="https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white" target="_blank"></a>
-    <a href="https://steamcommunity.com/id/jhoneshark" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
-     
+<a href = "mailto:jhoneshark@protonmail.com"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/jhonesmichael/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://open.spotify.com/playlist/7EbdsAZeYjzz52ciont5oJ?si=d656c4ef396a40c3" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
+<a href="https://www.binance.com/pt-BR/price/BITCOIN" target="_blank"><img src="https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white" target="_blank"></a>
+<a href="https://steamcommunity.com/id/jhoneshark" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
+
  </div>
 
  <picture>
@@ -44,9 +47,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jhoneshark/jhoneshark/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/jhoneshark/jhoneshark/output/pacman-contribution-graph.svg">
 </picture>
-  
 
-  
-  ![](https://komarev.com/ghpvc/?username=jhoneshark&color=grey)
-  
-  
+
+![](https://komarev.com/ghpvc/?username=jhoneshark&color=grey)
