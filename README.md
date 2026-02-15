@@ -9,7 +9,7 @@
     <div align="center">
         <img src="https://skillicons.dev/icons?i=html,css,js,php,cs&theme=dark"/>
     </div>
-    <h3 align="center">Frameworks 🚀</h3>
+    <h3 align="center">Frameworks/Bibliotecas 🚀</h3>
     <div align="center">
         <img src="https://skillicons.dev/icons?i=laravel,dotnet,react,nodejs&theme=dark"/>
     </div>
